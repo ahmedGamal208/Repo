@@ -1,7 +1,7 @@
 const Student = () => {
   return (
     <>
-      {/* ----------------- student section ----------------- */}
+      {/* ----------------- student section ------------------ */}
       <section className=" bg-black h-full  text-white">
         <div className="container w-full max-w-none px-5 flex">
           {/* ----------------- left blue col ----------------- */}
